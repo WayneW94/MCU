@@ -1,0 +1,63 @@
+*{
+	box-sizing: border-box;
+	text-align: center;
+	font-family: Franklin Gothic Medium, Sans-serif;
+}
+
+h1 , a{
+	text-decoration: none;
+	color: #f2282E;
+}
+
+html{
+	height: auto;
+	width: auto;
+}
+
+h1, h2{
+	text-align: center;
+}
+
+h1, h2, h3{
+	color: white;
+	text-align: center;
+}
+	
+
+body{
+	background-image: url("http://storage03dgf.rcs-rds.ro/storage/2018/03/02/885505_885505_avengers_infinity_war_lansare.jpg" );
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+
+nav{
+	text-align: center;
+	margin-top: 10px;
+}
+
+nav a{
+	text-align: center;
+    padding: 4px;
+    border: 2px solid white;
+	margin: 5px;
+	color: white;
+}
+
+nav a:hover{
+	background-color: #f2282E;
+}
+
+.p1{
+display: inline-block;
+display: center;
+padding: 30px;
+border: 7px solid white;
+margin: 10px;
+text-align: center;
+}
+
+.img{
+	text-align: center;
+	margin-bottom: 5px;
+}
